@@ -17,7 +17,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            ver 2
+            ver 3
           </a>
           <Link to="/">Home</Link>
           <Link to="/otherpage">Other Page</Link>
